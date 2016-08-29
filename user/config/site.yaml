@@ -1,0 +1,16 @@
+title: 'Fractionl Docs'
+author:
+  name: 'Marco DeLuca'
+  email: marco@fractionl.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'RTFM Skeleton'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
